@@ -1,0 +1,12 @@
+name: WarpPVP
+main: me.worddexe.warppvp.WarpPVP
+version: 1.0
+api-version: 1.21
+author: worddexe
+commands:
+  setpvp:
+    description: Sets the PVP warp location
+    usage: /setpvp
+  pvp:
+    description: Teleports you to the PVP warp location
+    usage: /pvp
